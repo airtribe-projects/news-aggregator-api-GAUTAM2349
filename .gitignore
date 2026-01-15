@@ -1,5 +1,2 @@
 node_modules
 .tap
-.env
-coverage
-.DS_Store
